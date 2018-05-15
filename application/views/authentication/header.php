@@ -17,5 +17,3 @@
 
 </head>
  
-<body class="no-skin">
-<div>

@@ -227,9 +227,9 @@ class triuneAuth extends MY_Controller {
                     $message .= '<strong>You have signed up with our website</strong><br>';
                     $message .= '<strong>Please click:</strong> ' . $link;                          
  
-                    //echo $message; //send this in email
+                    echo $message; //send this in email
 					
-					$this->_sendMail($toEmail ="dcisleta@tua.edu.ph", $subject = "For Verification", $message);
+					//$this->_sendMail($toEmail ="dcisleta@tua.edu.ph", $subject = "For Verification", $message);
 
 				} else {
 					$this->session->set_flashdata('msg', "The personal information you've typed do not matched with your current records!");

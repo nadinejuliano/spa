@@ -1,0 +1,4 @@
+INSERT INTO triune_job_request_transaction_ict_status_history VALUES (0, '1', 'N', 'jtsy', '::1', '2018-05-14 10:15:57');
+INSERT INTO triune_job_request_transaction_ict_status_history VALUES (2, '3', 'N', 'jtsy', '::1', '2018-05-14 11:03:33');
+INSERT INTO triune_job_request_transaction_ict_status_history VALUES (1, '9', 'N', 'jtsy', '::1', '2018-05-14 12:12:37');
+INSERT INTO triune_job_request_transaction_ict_status_history VALUES (2, '10', 'N', 'jtsy', '::1', '2018-05-14 01:25:00');

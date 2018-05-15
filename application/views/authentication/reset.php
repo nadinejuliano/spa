@@ -1,15 +1,6 @@
-<div>
-	<div>
-		<div id="navbar" class="navbar navbar-default">
-		</div>
-
-		<div class="page-content">
-    		<div class="row">
-				<div class="col-lg-6">
-				</div>
-
-				<div class="col-lg-6">
-                    <!-- PAGE CONTENT BEGINS -->
+<body class="auth-bg">
+    <div>
+<div class="containerBg">
 
                         <div class="col-lg-6 col-lg-offset-6">
                             <h2>Reset your password</h2>

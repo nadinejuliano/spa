@@ -1,9 +1,11 @@
+<body class="auth-bg">
+    <div>
 <div>
 	<div>
 		<div id="navbar" class="navbar navbar-default">
 		</div>
 
-		<div class="page-content">
+		<div class="container-fluid page-content">
     		<div class="row">
 				<div class="col-lg-6">
 				</div>

@@ -1,17 +1,7 @@
-<div>
-	<div>
-		<div id="navbar" class="navbar navbar-default">
-		</div>
-
-		<div class="page-content">
-    		<div class="row">
-				<div class="col-lg-6">
-				</div>
-
-				<div class="col-lg-6">
-                    <!-- PAGE CONTENT BEGINS -->
-
-                    <div class="col-lg-6 col-lg-offset-6">
+<body class="auth-bg">
+    <div>
+<div class="containerBg">
+    <div class="col-lg-4 col-lg-offset-4 space">
                         <h2>Forgot Password</h2>
                         <p>Please enter your email address and we'll send you instructions on how to reset your password</p>
                         <?php $fattr = array('class' => 'form-signin');

@@ -1,0 +1,4 @@
+INSERT INTO triune_job_request_transaction_ict VALUES (1, 'Test1', 'Computer Repair/Checkup', 'jtsy', '2018-05-18', '2018-05-14', 'N', '::1', '2018-05-14 10:15:57');
+INSERT INTO triune_job_request_transaction_ict VALUES (3, 'Test2', 'Internet Access', 'jtsy', '2018-05-25', '2018-05-14', 'N', '::1', '2018-05-14 11:03:33');
+INSERT INTO triune_job_request_transaction_ict VALUES (9, 'Test3', 'Internet Access', 'jtsy', '2018-05-24', '2018-05-14', 'N', '::1', '2018-05-14 12:12:37');
+INSERT INTO triune_job_request_transaction_ict VALUES (10, 'Test4', 'Software Installation', 'jtsy', '2018-05-30', '2018-05-14', 'N', '::1', '2018-05-14 01:25:00');
